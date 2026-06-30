@@ -1,5 +1,5 @@
 return {
-	UI = "Hyperion-V1",
-	Version = "HYP-V1",
+	UI = "Hyperion-V2",
+	Version = "HYP-V2",
 	Module = "HYPERION"
 }
