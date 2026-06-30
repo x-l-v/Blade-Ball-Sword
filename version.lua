@@ -1,3 +1,5 @@
-local vm_version ={
-  "HYP-V1.5",
+return {
+	UI = "Hyperion-V1",
+	Version = "HYP-V1",
+	Module = "HYPERION-V1"
 }
